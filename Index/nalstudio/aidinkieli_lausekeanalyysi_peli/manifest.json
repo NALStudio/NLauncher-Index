@@ -1,0 +1,13 @@
+{
+  "display_name": "\u00C4idinkieli Lausekeanalyysi Peli",
+  "uuid": "af3618c1-a6af-4e32-8e57-d85f6a52ca0d",
+  "developer": "NALStudio",
+  "publisher": "NALStudio",
+  "release": {
+    "state": "Released",
+    "release_date": "2020-04-25"
+  },
+  "age_rating": 3,
+  "color": "#0026FF",
+  "versions": []
+}

@@ -1,0 +1,13 @@
+{
+  "display_name": "Koponen Dating Simulator",
+  "uuid": "6a426fc6-e860-494a-badc-a7119d2e6c59",
+  "developer": "KL Corporation",
+  "publisher": "KL Corporation",
+  "release": {
+    "state": "Released",
+    "release_date": "2021-07-17"
+  },
+  "age_rating": 13,
+  "color": "#2ECC71",
+  "versions": []
+}

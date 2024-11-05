@@ -1,0 +1,13 @@
+{
+  "display_name": "KDS Level Builder",
+  "uuid": "7ba369c3-90ff-49ac-be54-2c11699eadd1",
+  "developer": "KL Corporation",
+  "publisher": "KL Corporation",
+  "release": {
+    "state": "Released",
+    "release_date": "2021-07-17"
+  },
+  "age_rating": null,
+  "color": "#00A8FF",
+  "versions": []
+}

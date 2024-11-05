@@ -1,0 +1,13 @@
+{
+  "display_name": "Rise and Fall",
+  "uuid": "e9dc9745-b153-47cf-9c09-6ff064ee556a",
+  "developer": "Pentti Kaalimaa",
+  "publisher": "Kaalimaa Productions",
+  "release": {
+    "state": "EarlyAccess",
+    "release_date": null
+  },
+  "age_rating": 7,
+  "color": "#FF0000",
+  "versions": []
+}

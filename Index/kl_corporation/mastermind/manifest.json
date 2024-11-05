@@ -1,0 +1,13 @@
+{
+  "display_name": "Mastermind",
+  "uuid": "e7e070f6-994c-4ec8-b295-3367fd7f7615",
+  "developer": "KL Corporation",
+  "publisher": "KL Corporation",
+  "release": {
+    "state": "Released",
+    "release_date": "2021-01-16"
+  },
+  "age_rating": 3,
+  "color": "#000000",
+  "versions": []
+}
