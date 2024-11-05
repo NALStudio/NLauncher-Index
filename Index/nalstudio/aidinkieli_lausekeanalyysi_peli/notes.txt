@@ -1,1 +1,4 @@
 Panel image is modified from Äidinkieli Lausekeanalyysi source code PortraitBackground.psd file.
+
+I could not find the original banner image anywhere, banner is thus downloaded from imgur.
+I'm not sure whether imgur compresses the image or not... It seems to download as .png so I would guess not.
