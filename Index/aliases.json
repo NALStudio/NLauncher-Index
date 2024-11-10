@@ -1,1 +1,11 @@
-{"aliases":{"matriisit":"80f57cfd-a933-47c6-ab2e-22e533dcd522","koponen-dating-simulator":"6a426fc6-e860-494a-badc-a7119d2e6c59","rise-and-fall":"e9dc9745-b153-47cf-9c09-6ff064ee556a","kds-level-builder":"7ba369c3-90ff-49ac-be54-2c11699eadd1","kds":"6a426fc6-e860-494a-badc-a7119d2e6c59","mastermind":"e7e070f6-994c-4ec8-b295-3367fd7f7615"}}
+{
+  "aliases": {
+    "rise-and-fall": "e9dc9745-b153-47cf-9c09-6ff064ee556a",
+    "kds": "6a426fc6-e860-494a-badc-a7119d2e6c59",
+    "oispa-kalussa": "67d0dff7-02da-4a69-8ede-1ca8ba413e44",
+    "kds-level-builder": "7ba369c3-90ff-49ac-be54-2c11699eadd1",
+    "matriisit": "80f57cfd-a933-47c6-ab2e-22e533dcd522",
+    "mastermind": "e7e070f6-994c-4ec8-b295-3367fd7f7615",
+    "koponen-dating-simulator": "6a426fc6-e860-494a-badc-a7119d2e6c59"
+  }
+}
