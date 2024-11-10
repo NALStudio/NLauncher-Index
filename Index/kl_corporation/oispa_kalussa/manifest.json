@@ -9,5 +9,6 @@
   },
   "age_rating": null,
   "color": null,
+  "priority": 5,
   "versions": []
 }

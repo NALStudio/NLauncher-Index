@@ -9,5 +9,6 @@
   },
   "age_rating": 13,
   "color": "#2ECC71",
+  "priority": 5,
   "versions": []
 }
