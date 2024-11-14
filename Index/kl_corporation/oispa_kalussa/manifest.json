@@ -10,5 +10,17 @@
   "age_rating": null,
   "color": null,
   "priority": 5,
-  "versions": []
+  "versions": [
+    {
+      "vernum": 0,
+      "identifier": "release",
+      "installs": [
+        {
+          "type": "website",
+          "url": "https://kl-corporation.github.io/oispakalussa/",
+          "supports_pwa": false
+        }
+      ]
+    }
+  ]
 }
