@@ -1,5 +1,4 @@
 **Mastermind** is a code-breaking game based on the famous board game invented in the 70's by [Mordecai Meirowitz](https://w.wiki/BqPK).
-<br />
 
 ### Gameplay and rules
 The goal of Mastermind is for the codebreaker (player) to guess the correct code in both order and colour, within twelve turns.
