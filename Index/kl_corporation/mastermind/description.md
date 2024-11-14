@@ -2,4 +2,6 @@
 <br />
 
 ### Gameplay and rules
-The goal of Mastermind is for the codebreaker (player) to guess the correct code in both order and colour, within twelve turns. After guessing, the codemaker (computer) will place <font color="red">red key pegs</font> for each code peg that is the correct colour and <font color="green">green key pegs</font> for each code peg that is the correct colour and position. This cycle continues until either the codebreaker guesses correctly, or all the rows of the board are full.
+The goal of Mastermind is for the codebreaker (player) to guess the correct code in both order and colour, within twelve turns.
+After guessing, the codemaker (computer) will place red key pegs for each code peg that is the correct colour and green key pegs for each code peg that is the correct colour and position.
+This cycle continues until either the codebreaker guesses correctly, or all the rows of the board are full.

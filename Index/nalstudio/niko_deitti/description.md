@@ -1,3 +1,5 @@
-# Niko - Elämäsi Rakkaus's Description
+Löydä jotain parempaa. Niko on Suomen komeimpien miesten Deittisovellus.
 
-This is the description of NALStudio's app 'Niko - Elämäsi Rakkaus'.
+Nikossa tutustut ihmisiin, joiden kanssa silmäsi ja sielusi kohtaavat. Näin moninkertaistat mahdollisuutesi löytää täydellinen parisuhde.
+
+Nikon toimintaperiaate on yksinkertainen: voit tykätä muista käyttäjistä ja jos hekin tykkäävät sinusta, teistä tulee toistenne osumat, jolloin voitte viestitellä sovelluksen kautta.
