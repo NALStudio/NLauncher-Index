@@ -1,6 +1,2 @@
-Banner is downloaded from Imgur, I couldn't find the original image anywhere.
-
-Panel is just a screenshot from the game itself with text over it.
 Rise and Fall font is the Windows default font: Ink Free
-
 Icon is downloaded from https://github.com/KaalimaaProductions/Rise-and-Fall/releases (assets/Rise_Fall.png)
