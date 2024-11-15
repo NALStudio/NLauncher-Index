@@ -10,5 +10,110 @@
   "age_rating": null,
   "color": "#00A8FF",
   "priority": -5,
-  "versions": []
+  "versions": [
+    {
+      "vernum": 2,
+      "identifier": "0.0.3-dev",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v0.0.3-dev/Windows_LevelBuilder.zip",
+          "download_hash": "F9Pr0BH0XB5tyoieSk3DICtUcniOV2icjRf1/MNdojA=",
+          "executable_path": "LevelBuilder.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 3,
+      "identifier": "0.0.4-dev",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator-Releases/releases/download/v0.0.4-dev/LevelBuilder.zip",
+          "download_hash": "EwnyoGIjiqHKK7RjUUGDGQenLNsSgu7wsacyM4RJ13E=",
+          "executable_path": "LevelBuilder.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 4,
+      "identifier": "0.0.5-dev",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator-Releases/releases/download/v0.0.5-dev/LevelBuilder.zip",
+          "download_hash": "lIXvLUJ1lQfeeIumso8tPal/WMUYU6fa9TBgNDeY8iQ=",
+          "executable_path": "LevelBuilder.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 5,
+      "identifier": "0.0.6-dev",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator-Releases/releases/download/v0.0.6-dev/LevelBuilder.zip",
+          "download_hash": "VjJN14LzRxc5Fz7SYLXDqS3rvalq1keK4GJmRq0I0ng=",
+          "executable_path": "LevelBuilder.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 6,
+      "identifier": "1.0.2",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v1.0.2/LevelBuilder.zip",
+          "download_hash": "fL881pjsnH5xNjV0i0tZcmzLxjvDK3BR0mgn8Rof3a4=",
+          "executable_path": "LevelBuilder.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 7,
+      "identifier": "1.0.3",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v1.0.3/LevelBuilder.zip",
+          "download_hash": "1wikUfoSiy7CLBXR3b8gizDIoFhm2h0mPH24EmA7i7Y=",
+          "executable_path": "LevelBuilder.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 8,
+      "identifier": "1.0.4",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v1.0.4/LevelBuilder.zip",
+          "download_hash": "ZEKJ1Oc1Fw6fe2gZhwZcO98Bd4lKehzvInTfrGBgJgs=",
+          "executable_path": "LevelBuilder.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 9,
+      "identifier": "1.0.5",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v1.0.5/LevelBuilder.zip",
+          "download_hash": "k5SBviEOsiPe8pNhjXyb5BYW1kmeb/QcBFzYqEiO2Jc=",
+          "executable_path": "LevelBuilder.exe"
+        }
+      ]
+    }
+  ]
 }

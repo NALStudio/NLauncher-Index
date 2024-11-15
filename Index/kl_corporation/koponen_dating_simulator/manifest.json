@@ -10,5 +10,136 @@
   "age_rating": 13,
   "color": "#2ECC71",
   "priority": 5,
-  "versions": []
+  "versions": [
+    {
+      "vernum": 0,
+      "identifier": "0.0.1-dev",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v0.0.1-dev/Windows_Executable.zip",
+          "download_hash": "9LjGax4J0TLKaPOz4qCOT/XEJFlpzYknEkkUqUpUAV8=",
+          "executable_path": "main.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 1,
+      "identifier": "0.0.2-dev",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v0.0.2-dev/Windows_Executable.zip",
+          "download_hash": "BcWa7p7V/ZGOk3YT9BhCAKIOkcLOylAIPyxtQta/wB0=",
+          "executable_path": "KoponenDatingSimulator.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 2,
+      "identifier": "0.0.3-dev",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v0.0.3-dev/Windows_Executable.zip",
+          "download_hash": "Lk6m8ky\u002Be/kyFmTOyliG2I6OxFeKPBrqdHvf2gCK2mI=",
+          "executable_path": "KoponenDatingSimulator.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 3,
+      "identifier": "0.0.4-dev",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator-Releases/releases/download/v0.0.4-dev/KoponenDatingSimulator.zip",
+          "download_hash": "58ZzWJ6g3vtzpXyWWNAJuGRzgBaqzUMEYWSbFSZT8P4=",
+          "executable_path": "KoponenDatingSimulator.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 4,
+      "identifier": "0.0.5-dev",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator-Releases/releases/download/v0.0.5-dev/KoponenDatingSimulator.zip",
+          "download_hash": "7UvCMcCy3lt7zhJ5BHTS9oofPV3a6oLZk\u002B68dkZglSA=",
+          "executable_path": "KoponenDatingSimulator.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 5,
+      "identifier": "0.0.6-dev",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator-Releases/releases/download/v0.0.6-dev/KoponenDatingSimulator.zip",
+          "download_hash": "UlshcDA1KyUPA7ezVoP6Fd1j7neWgrYPeuA3VTz28hE=",
+          "executable_path": "KoponenDatingSimulator.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 6,
+      "identifier": "1.0.2",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v1.0.2/KoponenDatingSimulator.zip",
+          "download_hash": "GnG\u002B1zrgssTFrxbciIqbg1o2ck\u002BPfBsxCpiyCsB8MxM=",
+          "executable_path": "KoponenDatingSimulator.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 7,
+      "identifier": "1.0.3",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v1.0.3/KoponenDatingSimulator.zip",
+          "download_hash": "tvJVCKHsxqtfwzbSELXPJisrNKBoUycLRICWXO/791M=",
+          "executable_path": "KoponenDatingSimulator.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 8,
+      "identifier": "1.0.4",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v1.0.4/KoponenDatingSimulator.zip",
+          "download_hash": "0/\u002BMPiByzCI/AeNjnYmLAufhD0HS2fLsCoASMlwAr\u002Bs=",
+          "executable_path": "KoponenDatingSimulator.exe"
+        }
+      ]
+    },
+    {
+      "vernum": 9,
+      "identifier": "1.0.5",
+      "installs": [
+        {
+          "type": "binary",
+          "platform": "windows",
+          "download_url": "https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases/download/v1.0.5/KoponenDatingSimulator.zip",
+          "download_hash": "378ywy7ZmtR0OkxSkb9Yd4Ps9G9NrpbXium5MMFJdi0=",
+          "executable_path": "KoponenDatingSimulator.exe"
+        }
+      ]
+    }
+  ]
 }
