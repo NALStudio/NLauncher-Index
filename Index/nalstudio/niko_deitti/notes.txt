@@ -1,0 +1,2 @@
+Icon is ic_launcher-playstore.png in android app project.
+I could make my own higher-res image in the future?
