@@ -1,26 +1,26 @@
 {
-  "display_name": "Oispa KaLussa!",
-  "uuid": "67d0dff7-02da-4a69-8ede-1ca8ba413e44",
-  "developer": "NALStudio",
-  "publisher": "KL Corporation",
-  "release": {
-    "state": "released",
-    "release_date": "2021-11-09"
-  },
-  "age_rating": null,
-  "color": null,
-  "priority": 5,
-  "versions": [
-    {
-      "vernum": 0,
-      "identifier": "release",
-      "installs": [
+    "display_name": "Oispa KaLussa!",
+    "uuid": "67d0dff7-02da-4a69-8ede-1ca8ba413e44",
+    "developer": "NALStudio",
+    "publisher": "KL Corporation",
+    "release": {
+        "state": "released",
+        "release_date": "2021-11-09"
+    },
+    "age_rating": null,
+    "color": null,
+    "priority": 5,
+    "versions": [
         {
-          "type": "website",
-          "url": "https://kl-corporation.github.io/oispakalussa/",
-          "supports_pwa": false
+            "vernum": 0,
+            "identifier": "release",
+            "installs": [
+                {
+                    "type": "website",
+                    "url": "https://kl-corporation.github.io/oispakalussa/",
+                    "supports_pwa": false
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

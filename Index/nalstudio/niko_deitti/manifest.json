@@ -1,26 +1,26 @@
 {
-  "display_name": "Niko - El\u00E4m\u00E4si Rakkaus",
-  "uuid": "372c3907-262d-4154-853f-941203650ce2",
-  "developer": "NALStudio",
-  "publisher": "NALStudio",
-  "release": {
-    "state": "released",
-    "release_date": "2024-01-14"
-  },
-  "age_rating": null,
-  "color": null,
-  "priority": 0,
-  "versions": [
-    {
-      "vernum": 0,
-      "identifier": "release",
-      "installs": [
+    "display_name": "Niko - El\u00E4m\u00E4si Rakkaus",
+    "uuid": "372c3907-262d-4154-853f-941203650ce2",
+    "developer": "NALStudio",
+    "publisher": "NALStudio",
+    "release": {
+        "state": "released",
+        "release_date": "2024-01-14"
+    },
+    "age_rating": null,
+    "color": null,
+    "priority": 0,
+    "versions": [
         {
-          "type": "storelink",
-          "platform": "android",
-          "url": "https://play.google.com/store/apps/details?id=com.nalstudio.kotisataman_niko"
+            "vernum": 0,
+            "identifier": "release",
+            "installs": [
+                {
+                    "type": "storelink",
+                    "platform": "android",
+                    "url": "https://play.google.com/store/apps/details?id=com.nalstudio.kotisataman_niko"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

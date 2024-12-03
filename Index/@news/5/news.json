@@ -1,8 +1,8 @@
 {
-  "title": "Now Available",
-  "text": "A platformer with twisted controls and difficult jumps.",
-  "interactivity": {
-    "type": "play_now",
-    "app_id": "e9dc9745-b153-47cf-9c09-6ff064ee556a"
-  }
+    "title": "Now Available",
+    "text": "A platformer with twisted controls and difficult jumps.",
+    "interactivity": {
+        "type": "play_now",
+        "app_id": "e9dc9745-b153-47cf-9c09-6ff064ee556a"
+    }
 }

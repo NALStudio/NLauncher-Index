@@ -1,7 +1,7 @@
 {
-  "title": "Released",
-  "text": "NLauncher is the go-to launcher for Finnish indie games.",
-  "interactivity": {
-    "type": "explore"
-  }
+    "title": "Released",
+    "text": "NLauncher is the go-to launcher for Finnish indie games.",
+    "interactivity": {
+        "type": "explore"
+    }
 }
