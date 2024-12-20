@@ -17,6 +17,7 @@
             "installs": [
                 {
                     "type": "storelink",
+                    "id": "0000",
                     "platform": "android",
                     "url": "https://play.google.com/store/apps/details?id=com.nalstudio.kotisataman_niko"
                 }

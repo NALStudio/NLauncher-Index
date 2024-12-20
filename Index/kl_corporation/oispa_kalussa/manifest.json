@@ -17,6 +17,7 @@
             "installs": [
                 {
                     "type": "website",
+                    "id": "0000",
                     "url": "https://kl-corporation.github.io/oispakalussa/",
                     "supports_pwa": false
                 }
