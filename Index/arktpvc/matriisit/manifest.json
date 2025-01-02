@@ -10,5 +10,45 @@
     "age_rating": 3,
     "color": null,
     "priority": -1,
-    "versions": []
+    "versions": [
+        {
+            "vernum": 0,
+            "identifier": "1.0.0",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/FinnishAviator/Matriisit/releases/download/v1.0.0/matriisit.zip",
+                    "download_hash": "5QxAX7E6u2/HZW6oBmmN/iho\u002BQ81ST9X1WzLraNvq2U=",
+                    "executable_path": "matriisit.exe"
+                }
+            ]
+        },
+        {
+            "vernum": 1,
+            "identifier": "1.1.0",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/FinnishAviator/Matriisit/releases/download/v1.1.0/matriisit.zip",
+                    "download_hash": "Fm5VfLE6QMgN73ZcLidl2PXGwL8pm06je92n5AK3el4=",
+                    "executable_path": "matriisit.exe"
+                }
+            ]
+        },
+        {
+            "vernum": 2,
+            "identifier": "1.2.0",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/FinnishAviator/Matriisit/releases/download/v1.2.0/matriisit.zip",
+                    "download_hash": "m8TXy/CJ708ruHeYdDTQfv/PBux5feMXt5dXb9VWXqc=",
+                    "executable_path": "matriisit.exe"
+                }
+            ]
+        }
+    ]
 }

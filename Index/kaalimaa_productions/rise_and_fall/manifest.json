@@ -10,5 +10,32 @@
     "age_rating": 7,
     "color": "#FF0000",
     "priority": 3,
-    "versions": []
+    "versions": [
+        {
+            "vernum": 0,
+            "identifier": "0.1.0",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/KaalimaaProductions/Rise-and-Fall/releases/download/0.1.0/Rise.and.Fall.zip",
+                    "download_hash": "PagfqNZSE33E5OVoPD3Wrw0edHQd8lNRpM1RnuLA6AI=",
+                    "executable_path": "__Rise and Fall.exe"
+                }
+            ]
+        },
+        {
+            "vernum": 1,
+            "identifier": "0.2.0",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/KaalimaaProductions/Rise-and-Fall/releases/download/0.2.0/Rise.and.Fall.0.2.0.zip",
+                    "download_hash": "YFjl7X1OYmRtT8Ilokct/6BNWL/JH3zHrqBOvn78bCo=",
+                    "executable_path": "Peli_VAL.exe"
+                }
+            ]
+        }
+    ]
 }

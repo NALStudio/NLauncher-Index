@@ -10,5 +10,58 @@
     "age_rating": 3,
     "color": "#0026FF",
     "priority": -5,
-    "versions": []
+    "versions": [
+        {
+            "vernum": 100,
+            "identifier": "1.2.2",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/NALStudio/Aidinkieli-Lausekeanalyysi-Peli/releases/download/1.2.2/Build.zip",
+                    "download_hash": "E/alxhZyaZB3R2feXmEx1hDbwoucO2vWT08wNuSK52c=",
+                    "executable_path": "\uFFFDidinkieli Lauseanalyysi Peli.exe"
+                }
+            ]
+        },
+        {
+            "vernum": 101,
+            "identifier": "1.2.3",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/NALStudio/Aidinkieli-Lausekeanalyysi-Peli/releases/download/1.2.3/Build.zip",
+                    "download_hash": "CHGDKHQ6uXsyZU4\u002BDaSr8\u002BJ/zFbc06KUpTvnFsv5CSI=",
+                    "executable_path": "Aidinkieli Lausekeanalyysi Peli.exe"
+                }
+            ]
+        },
+        {
+            "vernum": 102,
+            "identifier": "1.2.4",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/NALStudio/Aidinkieli-Lausekeanalyysi-Peli/releases/download/1.2.4/Build.zip",
+                    "download_hash": "akJj3jTxiBnq7zKFXidhkHcXHY9MOuEnSZ4HRms0YCs=",
+                    "executable_path": "Aidinkieli Lausekeanalyysi Peli.exe"
+                }
+            ]
+        },
+        {
+            "vernum": 103,
+            "identifier": "1.2.5",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/NALStudio/Aidinkieli-Lausekeanalyysi-Peli/releases/download/1.2.5/Build.zip",
+                    "download_hash": "6RmStil1C85Oz2ctXDdu1pBpCRlm1MCPoRHFbzlrYYk=",
+                    "executable_path": "Aidinkieli Lausekeanalyysi Peli.exe"
+                }
+            ]
+        }
+    ]
 }

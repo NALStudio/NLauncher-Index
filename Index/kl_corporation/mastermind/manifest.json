@@ -10,5 +10,32 @@
     "age_rating": 3,
     "color": "#000000",
     "priority": 1,
-    "versions": []
+    "versions": [
+        {
+            "vernum": 0,
+            "identifier": "1.0.0",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/KL-Corporation/Mastermind/releases/download/1.0.0/1.0.0.zip",
+                    "download_hash": "DNRrSd8qMVm\u002BFXMYL2JpOeBvSqVJIHWhSZ2wVFPZknM=",
+                    "executable_path": "Mastermind.exe"
+                }
+            ]
+        },
+        {
+            "vernum": 1,
+            "identifier": "1.0.1",
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://github.com/KL-Corporation/Mastermind/releases/download/1.0.1/Mastermind.zip",
+                    "download_hash": "6VZwaK\u002B7895ahGt6tXsspMznPxyFB/XeuaS8oYI/IWI=",
+                    "executable_path": "Mastermind.exe"
+                }
+            ]
+        }
+    ]
 }
