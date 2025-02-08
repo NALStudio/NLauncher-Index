@@ -14,6 +14,7 @@
         {
             "vernum": 0,
             "identifier": "1.0.0",
+            "min_recommended_resolution": 1440,
             "installs": [
                 {
                     "type": "binary",
@@ -27,6 +28,7 @@
         {
             "vernum": 1,
             "identifier": "1.0.1",
+            "min_recommended_resolution": 1440,
             "installs": [
                 {
                     "type": "binary",
