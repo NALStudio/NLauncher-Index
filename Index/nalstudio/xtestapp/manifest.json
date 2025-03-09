@@ -1,0 +1,30 @@
+{
+    "display_name": "XTestApp",
+    "uuid": "8b292259-d177-4dd6-ba91-8aa0af051973",
+    "environment": "development",
+    "developer": "NALStudio",
+    "publisher": "NALStudio",
+    "release": {
+        "state": "released",
+        "release_date": "2025-03-09"
+    },
+    "age_rating": null,
+    "color": null,
+    "priority": 0,
+    "versions": [
+        {
+            "vernum": 0,
+            "identifier": "1.0.0",
+            "min_recommended_resolution": null,
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://raw.githubusercontent.com/NALStudio/NLauncher-Index/main/Binaries/NALStudio/XTestApp/0%20(1.0.0)/XTestApp.zip",
+                    "download_hash": "Gm/dOiKNaDZajJBXdoEFvFsEfKo61lGxtTdIZkZ\u002B10w=",
+                    "executable_path": "XTestApp.exe"
+                }
+            ]
+        }
+    ]
+}

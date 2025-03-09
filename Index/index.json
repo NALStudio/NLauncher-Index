@@ -1,5 +1,5 @@
 {
-  "indexmanifest_path": "../indexmanifest.json",
+  "build_dir": "..",
   "repository": {
     "owner": "NALStudio",
     "repo": "NLauncher-Index",
