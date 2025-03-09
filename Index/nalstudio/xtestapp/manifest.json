@@ -25,6 +25,20 @@
                     "executable_path": "XTestApp.exe"
                 }
             ]
+        },
+        {
+            "vernum": 1,
+            "identifier": "1.0.1",
+            "min_recommended_resolution": null,
+            "installs": [
+                {
+                    "type": "binary",
+                    "platform": "windows",
+                    "download_url": "https://raw.githubusercontent.com/NALStudio/NLauncher-Index/main/Binaries/NALStudio/XTestApp/1%20(1.0.1)/XTestApp.zip",
+                    "download_hash": "2tYhP37WyTTxSeDtn23B3kmoB0iKjPDMBvaWzycrrLI=",
+                    "executable_path": "XTestApp.exe"
+                }
+            ]
         }
     ]
 }
